@@ -11,7 +11,7 @@ public class TestQ1_3 {
 
     @Test
     public void testDocsAndScores() {
-        String inputFileFullPath="src/main/resources/input.txt";
+        String inputFileFullPath="input.txt";
         QueryEngine objQueryEngine = new QueryEngine(inputFileFullPath);
         try {
             String[] common_query = {"information", "retrieval"};
