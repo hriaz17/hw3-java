@@ -110,4 +110,4 @@ possible points.
 
 To get the remaining of the points, your code will be checked for things like readability and code quality.
 
-***Please note that this time on there will be a penalty for not following all instructions. Especially `do not merge the pull request`.***
+**Please note that this time on there will be a penalty for not following all instructions. Especially `do not merge the pull request`.**
