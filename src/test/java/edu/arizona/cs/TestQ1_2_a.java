@@ -10,7 +10,7 @@ public class TestQ1_2_a {
     @Test
     public void testDocsAndScores() {
 
-        String inputFileFullPath="input.txt";
+        String inputFileFullPath="src/main/resources/input.txt";
 
         QueryEngine objQueryEngine = new QueryEngine(inputFileFullPath);
         try {
